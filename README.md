@@ -1,3 +1,3 @@
 # Open your mind for the universe
 
-This a little space for save diferents mini prrojects about my diverse preferences in programmation langs.
+This a little space for save diferents mini projects about my diverses preferences in programmation langs.
